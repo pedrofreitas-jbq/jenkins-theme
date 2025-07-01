@@ -2,6 +2,7 @@
     document.addEventListener("DOMContentLoaded", function () {
         const INCLUDE_CLASSES = [
             'jenkins-breadcrumbs__list-item',
+            'jenkins-breadcrumbs',
             'model-link',
             'empty-state-block',
             'task-link-text',
