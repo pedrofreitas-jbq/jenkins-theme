@@ -1,6 +1,7 @@
 (function () {
     document.addEventListener("DOMContentLoaded", function () {
         const INCLUDE_CLASSES = [
+            'model-link',
             'empty-state-block',
             'task-link-text',
             'jenkins-command-palette__results__item',
