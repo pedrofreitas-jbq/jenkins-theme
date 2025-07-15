@@ -1,5 +1,8 @@
 (function () {
     document.addEventListener("DOMContentLoaded", function () {
+        
+        document.title = "Anggle - Dashboard";
+
         const INCLUDE_CLASSES = [
             'jenkins-breadcrumbs__list-item',
             'jenkins-breadcrumbs',
