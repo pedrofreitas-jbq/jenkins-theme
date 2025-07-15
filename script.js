@@ -1,7 +1,9 @@
 (function () {
     document.addEventListener("DOMContentLoaded", function () {
         
-        document.title = "Anggle - Dashboard";
+        setTimeout(function () {
+            document.title = "Anggle";
+        }, 100);
 
         const INCLUDE_CLASSES = [
             'jenkins-breadcrumbs__list-item',
